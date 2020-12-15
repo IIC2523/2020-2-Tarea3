@@ -1,0 +1,14 @@
+# Hay diferentes opciones posibles de output. Podemos asegurar estos outputs porque los hash que elegimos para calcular toman en promedio más de 4 segundos.
+# Este es un estilo de output, se suguiere hacer algo similar (no es obligatorio).
+
+# La primera instrucción del archivo se alcanza a procesar primero
+Tipo: C, ID: 1, k' = 4028373
+Tipo: T, ID: 1, k' = 4836549
+Tipo: T, ID: 0, k' = 2548241
+Tipo: C, ID: 0, k' = 7322412
+
+# La primera instrucción del archivo NO se alcanza a procesar primero
+Tipo: T, ID: 1, k' = 4836549
+Tipo: T, ID: 0, k' = 2548241
+Tipo: C, ID: 1, k' = 4028373
+Tipo: C, ID: 0, k' = 7322412
