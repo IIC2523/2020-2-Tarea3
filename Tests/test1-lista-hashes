@@ -1,0 +1,25 @@
+# Lista Hashes test 1
+
+# String = 'SistemasDistribuidos'
+# old_hash = '45d936d7238b36442bcd90433f5159033ba81914513f337315dfcf51e210fbda'
+# k = 2020
+# end_hash = 'cba0c'
+# k_prima = 4028373
+
+# String = 'PUC-Computacion'
+# old_hash = '18125c9f68a0c09d960fb378030e1858c5dd1844cc9a1debf1540902992245d9'
+# k = 3000
+# end_hash = 'ff1a3b'
+# k_prima = 4836549
+
+# String = 'CristianRuz'
+# old_hash = '99ed87d062285552be05fdff3d79f3fcc572e0786003b59a5bbcec848e7dfca8'
+# k = 5423
+# end_hash = '010ab4'
+# k_prima = 7322412
+
+# String = '0testString0'
+# old_hash = '235f8338e0a691e5f99bea4b09082b89ea4165c498b46036614ff2f1081a6a46'
+# k = 0
+# end_hash = '00b00'
+# k' = 2548241
